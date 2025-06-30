@@ -99,7 +99,7 @@ Selecione a cidade de origem e destino
 
 Informe a autonomia do carro (km/l) e o preço do combustível
 
-Clique em "Buscar caminho mais barato"
+Clique em "Buscar"
 
 Veja a rota e o custo total estimado com pedágios
 
@@ -111,8 +111,7 @@ Veja a rota e o custo total estimado com pedágios
 - Estilização responsiva e navegação com React Router
 
 ## Autor
-
-Desenvolvido por Vitor de Souza Ramos
-Estudante de Ciência da Computação na UNESC
-GitHub: https://github.com/vitor-sramos
-LinkedIn: https://www.linkedin.com/in/vitor-ramos-934302349
+- Desenvolvido por Vitor de Souza Ramos
+- Estudante de Ciência da Computação na UNESC
+- GitHub: https://github.com/vitor-sramos
+- LinkedIn: https://www.linkedin.com/in/vitor-ramos-934302349
